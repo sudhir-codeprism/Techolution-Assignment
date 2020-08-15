@@ -28,9 +28,12 @@
               "src/assets"
             ],
             "styles": [
+            
               "src/styles.scss"
+             
             ],
-            "scripts": []
+            "scripts": [
+            ]
           },
           "configurations": {
             "production": {
@@ -123,6 +126,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "astrology-web"
+    }
+  },
+  "defaultProject": "astrology-web",
+  "cli": {
+    "analytics": "5025eabf-1ff3-4b73-baec-7bb0a789fc97"
+  }
 }
